@@ -9,6 +9,9 @@ _AIS moduals:
 _UN data:
 - children: data.unicef.org/child-protection/fgmc.html and https://data.unicef.org/
 
+_US longitudinal data: The National Longitudinal Study of Adolescent to Adult Health (Add Health) 
+- https://www.cpc.unc.edu/projects/addhealth
+
 MC, H1N1, FGC; 
 David etc's Canadian national data
 ebola: https://www.theglobeandmail.com/world/article-ebola-spreads-into-congolese-city-as-canadian-vaccine-arrives/
