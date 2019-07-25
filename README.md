@@ -41,6 +41,8 @@ http://www.cdc.gov/healthcommunication/pdf/sciencedigest/hcsd-archive.pdf (CDC h
 
  the Global Burden of Diseases, Injuries, and Risk Factors Study 2016; the Varieties of Democracy project; the Financing Global Health database (domestic product (GDP)) ; Development Assistance for Health estimates (see https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30235-1/fulltext?dgcid=raven_jbs_etoc_email)
  
+ Global School-Based Student Health Survey: https://www.who.int/ncds/surveillance/gshs/en/
+ 
 HIV: 
 1. evaluating 90-90-90 (using DHS data or Harvard's)
 - http://www.unaids.org/sites/default/files/media_asset/UNAIDS_2017_core-epidemiology-slides_en.pdf (current update)
